@@ -1,0 +1,157 @@
+Python: GUI
+Import JSON
+
+Import Numpy
+
+
+Numpy protein sort at JSON:
+
+
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "g",
+    "c": "d",
+    "e": "f"
+  "h":"i":"k":"l":"m":"n":"p":"q";"r";"S":"t":"v":"w":"y":},
+  "string": ""
+}
+Import json
+Import numpy as np
+With open (‘training-data-10k.json’) as f:
+Data = json.load (f)
+Xs = np.array (data [‘ys’])
+YS = np.array (data[‘ys’])
+X – train = xs[-10]
+Y-train= ys [: -10]
+x-train = xs[: -10]
+x-test= xs [:-10]
+y-test = ys[:-10]
+open training data as g:
+open(‘training_data -10k.jason’) as g:
+
+
+Python: GUI
+Import JSON
+Import Numpy
+
+Numpy protein sort at JSON:
+
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "null": null,
+  "number": 123,
+  "object": {
+    "aa": "gg",
+    "cc": "dd",
+    "ee": "ff"
+  "hh":"ii":"kk":"ll":"mm":"nn":"pp":"qq";
+  "rr";"ss":"tt":"vv":"ww":"yy":},
+  "string": ""
+}
+Import json
+Import numpy as np
+With open (‘training-data-10k.json’) as f:
+Data = json.load (f)
+Xs = np.array (data [‘ys’])
+YS = np.array (data[‘ys’])
+X – train = xs[-10]
+Y-train= ys [: -10]
+x-train = xs[: -10]
+x-test= xs [:-10]
+y-test = ys[:-10]
+open training data as g:
+open(‘training_data -10k.jason’) as g:
+
+
+Python: GUI
+Import JSON
+Import Numpy
+
+Numpy protein sort at JSON:
+
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "null": null,
+  "number": 123,
+  "object": {
+    "aaa": "ggg",
+    "ccc": "ddd",
+    "eee": "fff"
+  "hhh":"iii":"kkk":"lll":"mmm":"nnn":
+  "ppp":"qqq";"rrr";"sss":"ttt":"vvv":
+  "www":"yyy":"x";"xx"},
+  "string": ""
+}
+Import json
+Import numpy as np
+With open (‘training-data-10k.json’) as f:
+Data = json.load (f)
+Xs = np.array (data [‘ys’])
+YS = np.array (data[‘ys’])
+X – train = xs[-10]
+Y-train= ys [: -10]
+x-train = xs[: -10]
+x-test= xs [:-10]
+y-test = ys[:-10]
+open training data as g:
+open(‘training_data -10k.jason’) as g:
+
+
+
+
+
+Python: GUI
+Import JSON
+Import Numpy
+
+Numpy protein sort at JSON:
+
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "null": null,
+  "number": 123,
+  "object": {
+    "xax": "xgx",
+    "xcx": "xdx",
+    "xex": "xfx"
+  "xhx":"xix":"xkx":"xlx":"xmx":"xnx":
+  "xpx":"xqx";"xrx";"xsx":"xtx":"xvx":
+  "xwx":"xyx":},
+  "string": ""
+}
+Import json
+Import numpy as np
+With open (‘training-data-10k.json’) as f:
+Data = json.load (f)
+Xs = np.array (data [‘ys’])
+YS = np.array (data[‘ys’])
+X – train = xs[-10]
+Y-train= ys [: -10]
+x-train = xs[: -10]
+x-test= xs [:-10]
+y-test = ys[:-10]
+open training data as g:
+open(‘training_data -10k.jason’) as g:
